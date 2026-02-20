@@ -384,4 +384,4 @@ Built with modern web technologies and powered by cutting-edge LLMs from OpenAI 
 
 ---
 
-**Made with by the Data Analysis Team**
+**Made by Renan Hawladar**
